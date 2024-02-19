@@ -1,0 +1,3 @@
+s=float(input("Enter the side"))
+ar=s*s
+print("The area of square with side",s,"cm is",ar,"cm sq")
